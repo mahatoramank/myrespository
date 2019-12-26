@@ -6,7 +6,7 @@ export default {
   name: "Home",
   data() {
     return {
-      msg: "Hello World"
+      msg: "Hello World! Just trying out some things."
     };
   }
 };
